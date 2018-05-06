@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GallaryYa</string>
+    <string name="load_img_error">Не удалось загрузить изображение</string>
+</resources>
